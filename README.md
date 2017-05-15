@@ -1,3 +1,3 @@
 # hello-world
 
-Just wrinting some changes to this file to test.
+Just writing some changes to this file to test.
